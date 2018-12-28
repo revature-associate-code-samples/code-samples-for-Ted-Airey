@@ -276,3 +276,26 @@ java.net.SocketException: Connection reset
 	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer$1.performFileTransfer(AbstractRetrieveFileTransfer.java:178)
 	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-12-28 14:08:43.859
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.geHfUAif
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-12-28 14:08:43.869
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.geHfUAif
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-12-28 14:08:43.878
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-12-28 14:08:43.887
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.geHfUAif => OK
+
+!ENTRY org.eclipse.ui.ide 4 4 2018-12-28 14:08:46.548
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2018-12-28 14:08:46.592
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2018-12-28 14:08:46.592
+!MESSAGE The project description file (.project) for 'Servers' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-12-28 14:08:48.911
+!MESSAGE The workspace will exit with unsaved changes in this session.
