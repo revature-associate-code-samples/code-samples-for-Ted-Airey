@@ -1,7 +1,7 @@
 # code-samples-for-Ted-Airey
 
 ## Project 0: Banking Application
-The Banking Application created allows users to interact with a virtual Banking application through the command line. Users are able to create three different types of accounts, each with different functionality. Users are able to deposit, withdraw, and check funds in their account, along with implemented input validation for usernames, passwords, account deposits and withdrawals, and more.
+The Banking Application created allows users to interact with a virtual banking application through the command line. Users are able to create three different types of accounts, each with different functionality. Users are able to deposit, withdraw, and check funds in their account, along with implemented input validation for usernames, passwords, account deposits and withdrawals, and more.
 ## Project 1: Employee Reimbursement Application
 The Reimbursement System is a full stack Java application that allows a user who is an employee to submit reimbursement requests and view their own previous reimbursements. A user who when logged in is identified as a manager can then review particular requests from every employee, approve or deny those requests, and view all past reimbursement requests.
 ## Project 2: MovieFanatic Application
