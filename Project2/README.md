@@ -12,5 +12,5 @@ MovieFanatic is a dynamic web application with an intuitive user interface that 
 * Created an SQL relational database to store user, review, approval, and favorite information.
 * Used an Amazon RDS instance to store the database.
 
-# Environment / Technologies
+## Environment / Technologies
 EC2, Agile, S3, RDS, DevOps, Continuous Integration, Spring, Angular, HTML5, Bootstrap, Java
