@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\dukef\Documents\my_git_repos\Revature-Code\code-samples-for-Ted-Airey\.metadata\.plugins\org.eclipse.jdt.core
+2617669229.index
+3371958465.index
+2675607813.index
+3482110455.index
+2752240171.index
+2940452967.index
+712673515.index
+3652625435.index

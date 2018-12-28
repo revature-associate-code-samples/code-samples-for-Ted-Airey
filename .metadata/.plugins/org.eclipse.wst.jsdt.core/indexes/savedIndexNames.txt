@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\dukef\Documents\my_git_repos\Revature-Code\code-samples-for-Ted-Airey\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+712673515.index
