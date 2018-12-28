@@ -9,4 +9,4 @@ MovieFanatic is a dynamic web application that serves as a "one-stop shop" for e
 ## Project 3: Caliber MicroService Application
 Caliber is a performance management suite to collect and analyze evaluations of Revature trainees. Trainers can input individual grades for all Revature trainees and add additional comments as well. Once all the associates are graded, an overall score appears at the bottom, indicating the overall score for each batch, based on the result of a certain algorithm.
 
-More information is included within each project folder
+#### More information is included within each project folder
