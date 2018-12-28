@@ -1,0 +1,2 @@
+# Project 0: Banking Application
+The Banking Application created allows users to interact with a virtual Banking application through the command line. Users are able to create three different types of accounts, each with different functionality. Users are able to deposit, withdraw, and check funds in their account, along with implemented input validation for usernames, passwords, account deposits and withdrawals, and more.
