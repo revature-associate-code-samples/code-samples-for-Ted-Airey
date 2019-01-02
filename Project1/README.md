@@ -13,3 +13,6 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 
 ## Environment / Technologies
 Servlets, Java, HTML, CSS, JDBC, SQL, AJAX, JavaScript
+
+## Full Project Repo
+[External Link](https://github.com/tairey1/RevatureApps/tree/master/Project1)
