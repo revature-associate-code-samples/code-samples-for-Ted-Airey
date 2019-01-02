@@ -12,4 +12,4 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 * Used an Amazon RDS instance to store the database.
 
 ## Environment / Technologies
-Servlets, Java, HTML, CSS, JDBC, SQL, AJAX, JavaScript, Angular
+Servlets, Java, HTML, CSS, JDBC, SQL, AJAX, JavaScript
