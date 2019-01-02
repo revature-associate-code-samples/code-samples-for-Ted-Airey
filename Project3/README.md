@@ -13,3 +13,6 @@ Caliber is a performance management suite to collect and analyze evaluations of 
 
 ## Environment / Technologies
 Java, Spring, REST, SQL, Angular, HTML, Bootstrap, CSS, Git, JPA, Microservices
+
+## Full Project Repo
+[Front End](https://github.com/revaturelabs/caliber-client-2.0), [Back End](https://github.com/revaturelabs/caliber-quality-audit-service)
