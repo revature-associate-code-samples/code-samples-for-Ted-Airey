@@ -14,3 +14,6 @@ MovieFanatic is a dynamic web application with an intuitive user interface that 
 
 ## Environment / Technologies
 EC2, Agile, S3, RDS, DevOps, Continuous Integration, Spring, Angular, HTML5, Bootstrap, Java
+
+## Full Project Repos
+[Front End](https://github.com/1810-oct22-java/fanatic-client), [Bank End](https://github.com/1810-oct22-java/fanatic) 
